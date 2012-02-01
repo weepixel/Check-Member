@@ -30,7 +30,7 @@ $plugin_info = array(
 	'pi_author' => 'Steve Abraham - Wee Pixel',
 	'pi_author_url' => 'http://weepixel.com/',
 	'pi_description' => 'Checks to see if a member exists.',
-	'pi_usage' => Check_member::usage()
+	'pi_usage' => Wp_check_member::usage()
 	);
 
 class Wp_check_member {
