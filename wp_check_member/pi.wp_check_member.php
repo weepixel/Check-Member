@@ -33,7 +33,7 @@ $plugin_info = array(
 	'pi_usage' => Check_member::usage()
 	);
 
-class Check_member {
+class Wp_check_member {
 	
 	var $return_data = "";
 
